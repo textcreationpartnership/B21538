@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The East-India Company, appellants. Mr. Attorney General at the relation of Walter Whitfeild, John Earl, and Thomas Killner. Respendents [sic]. The appellants case.</title>
+            <author>East India Company.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21538</idno>
+            <idno type="STC">Wing E100BE</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[38]</idno>
+            <idno type="STC">ESTC R227817</idno>
+            <idno type="EEBO-CITATION">99887523</idno>
+            <idno type="PROQUEST">ocm99887523</idno>
+            <idno type="VID">190504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190504)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[105])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The East-India Company, appellants. Mr. Attorney General at the relation of Walter Whitfeild, John Earl, and Thomas Killner. Respendents [sic]. The appellants case.</title>
+                  <author>East India Company.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: print faded.</note>
+                  <note>An appeal against a verdict condemning the company to pay the Crown for the tenths of prize goods.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Prizes --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190504:1"/>
+            <head>
+               <table>
+                  <row>
+                     <cell>The <hi>Eaſt-India</hi> Company, Appellants,</cell>
+                     <cell>Mr. <hi>Attorney General</hi> at the Relation of <hi>Walter Whitfeild, John Earl,</hi> and <hi>Thomas Killner</hi>
+                     </cell>
+                     <cell>Reſpondents.</cell>
+                  </row>
+               </table> The Appellants Caſe.</head>
+            <p>THE <hi>Eaſt-India</hi> Company at their vaſt Charge Eſtabliſhed a Trade to the <hi>Eaſt-Indies</hi> very profitable to this Kingdom; And had full Power by their Charter from the two laſt Kings, to make War or Peace with any Heathen Princes within their Limits, as occaſion ſhould require, without any reſervation to the Crown or Lord High Admiral of <hi>England</hi> of the Tenth, or any other part of Prizes.</p>
+            <p>That the Great <hi>Mogul</hi> unjuſtly began a War againſt the Company, and ſeized their Factories, Servants, and Goods, and murthered ſeveral <hi>Engliſh,</hi> and beſieged their Forts and Caſtles in the <hi>East-Indies,</hi> of which the late King <hi>James</hi> and his Council being informed, his Majeſty was pleaſed to direct the Company (for the Preſervation of their Rights, and the Vindication of the Honour of this Kingdom) to make War againſt the Great <hi>Mogul</hi> and his Subjects; and gave Commiſſions to ſeveral of his Captains of Ships of War to aſſiſt the Company, and obſerve their Orders in the Proſecution of that War; thereby requiring the Captains to take care that the Tenths of all Prizes taken by them in that War, and condemned as lawful Prize, ſhould be ſecured and paid to the ſaid late King.</p>
+            <p>This War continued ſeveral years, but at laſt a Peace much to the Honour of this Kingdom, was made, whereby all that was detained or ſtopped in the <hi>Indies</hi> during the War on both ſides, and not plundred or deſtroyed, were to be reſtored to each other, and ſuch Goods of the <hi>Mogul</hi>'s Subjects as the Company had ſent home, were to be paid for by them, which they have ſince ſatisfied accordingly.</p>
+            <p>That the whole Expences of that War (which were vaſtly Great) were born by the Company, and the King put to no Charge, and the Tenth of all Prizes in that War taken and condemned in the <hi>Eaſt-Indies,</hi> amounting in the whole to 1361 <hi>l. 13 s. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1 d.</hi> were duly paid into the <hi>Exchequer</hi> up<g ref="char:EOLhyphen"/>on the Relators Motion.</p>
+            <p>But the ſaid Relators pretending there were more Prizes taken and condemned then thoſe anſwered to Their Majeſties as aforeſaid, got a Privy-Seal for a Third of the Tenth part of all Prize Goods during that War, and prevailed with Mr. Attorney General, at their Relation, to Exhibit a Bill into the Court of <hi>Exchequer</hi> againſt the Appellants for an Account of all Prize Goods generally, and to have the Tenths of the ſame.</p>
+            <p>To which Bill the Appellants put in their Anſwer, and inſiſted on ſeveral Matters ariſing in the <hi>Indies</hi> material and neceſſary to be proved, <hi>and upon which their juſt defence depended;</hi> and therefore often moved that Court for a Commiſſion thither to examine their Witneſſes, but were denied the ſame.</p>
+            <p>That after the Commencement of that Suit, two of the Companies Ships called <hi>Charles</hi> the II. and <hi>New London,</hi> arriving with Goods from the <hi>Eaſt-Indies,</hi> the Relators upon pretence that thoſe Goods were all or moſt Prize Goods, obtained an Order from the Court of <hi>Exchequer</hi> to carry into Ware-houſes, and open and view the whole Cargoes of both Ships, which they did. diſordering every Bale thereof to the great damage of the Goods, a great part whereof was bought by the Companies Factors in the <hi>Eaſt Indies,</hi> and other part belonging to other Mar<g ref="char:EOLhyphen"/>cha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, and ſo the Appellants could have proved, and again moved the Court of <hi>Exchequer</hi> upon Affidavits for a Commiſſion to prove the ſame, but were ſtill denied it, though the Proof was put upon them by Mr. Attorney General's replying to their Anſwer, and although the ſaid Court by their Order of the <hi>9th</hi> of <hi>May</hi> laſt, had given the Company time to conſider whether upon their having a Commiſſion they would give Security to abide the Order of that Court on Hearing the Cauſe touching <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Sum of Mony reported due, which was but <hi>9000l</hi> and had a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terward al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owed of Security offered by the Company for that purpoſe, yet they could obtain no Commiſſion unleſs the Company would firſt give Security by three ſufficient Perſons in the Sum of <hi>30000l.</hi> (being more then three times the Sum reported due) to abide the Order o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Court upon Hear<g ref="char:EOLhyphen"/>ing the Cauſe.</p>
+            <p>That the Appellants being thus denied the liberty of making their juſt Defence; put in exceptions to the Deputy Remembrancer's Report, being thereby (without any ſufficient Proof) charged with <hi>9000l.</hi> for Prize Goods as brought home in the ſaid two Ships: but the Exceptions were over<g ref="char:EOLhyphen"/>ruled as to all, ſave 179 Bales of Goods which were ſent to a Tryal at Law, and by a Jury of Knights and Gentlemen at the <hi>Exchequer</hi> Bar, <hi>a Verdict was found that they were not Prize Goods, tho'</hi> Jeremiah Bonneale, (<hi>who was the only poſitive Witneſs againſt the Appellants on which the Report was founded</hi>) by his Affidavit and Depoſitions taken in the Cauſe, did ſwear, That the 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9 Bales which were to to<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by the Verdict n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to be Prize Goods, were Prize Goods as well as the reſt, and ſo his Teſtimony was contradicted by the Verdict as to the 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and would have been ſo likewiſe as to the reſt of the Goods, had the Appellants been allowed a Commiſſion as of Right they ought.</p>
+            <p>After which Tryal the ſaid Cauſe came to Hearing the <hi>29th.</hi> of <hi>November</hi> 1692. And a Decree paſs'd againſt the Appellants for Payment to their Majeſties <hi>7940l.</hi> for the Tenths of Prize Goods come to their hands in the ſaid two Ships, of all which they could have diſcharged themſelves, had they been allowed a Commiſſion as they ought to have been.</p>
+            <p>Againſt which Decree, and the denying of a Commiſſion to the Appellants for Examination of their Witneſſes, an Appeal is brought, and the Appellants humbly pray that the Decree may be reverſed for theſe Reaſons.</p>
+            <list>
+               <item>
+                  <hi>FIRST,</hi> For that the Decree was founded on the Teſtimony of a ſingle Witneſs, who was falſified by a Verdict at Law given in the ſame Court where the Decree was made, and before the ſame Judges; and that in time, be<g ref="char:EOLhyphen"/>fore the Decree was pronounced; and ſo, as humbly conceived, could be no good Ground in Equity for a Decree, nor ought a ſingle Witneſs (tho' of good Credit) to be received againſt the Defendants Anſwer, that being contrary to the conſtant Practice and Rules of Equity, and there was no other Witneſs but him, who was falſified by a Verdict at Law to charge the Appellants with the Sum Decreed.</item>
+               <item>
+                  <hi>SECONDLY,</hi> For that it is of commmon Right, and the conſtant Juſtice of all Courts of Equity, to grant Com<g ref="char:EOLhyphen"/>miſſions beyond Sea for Examination of Witneſſes there, where the Cauſe of Action ariſeth, and when the Cir<g ref="char:EOLhyphen"/>cumſtance of the Caſe requires it, as in this Caſe it was manifeſtly neceſſary, the whole Matter of the Suit ariſing in the <hi>Eaſt-Indies,</hi> for without ſuch Commiſſion, it will be impoſſible to examine the Witneſſes in Foreign Parts, and without Proof no Man can defend himſelf; and if the Appellants Witneſſes in the <hi>Eaſt-Indies</hi> had been examin<g ref="char:EOLhyphen"/>ed, there would have been no colour for any Decree; and therefore it is humbly hoped the Decree ſhall be Reverſed.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:190504:2"/>
+            <p>THE CASE OF THE <hi>Eaſt-India</hi> Company, Againſt Mr. <hi>Attorney-General</hi> And the Relators. To be heard at the Bar of the Houſe of Lords on <hi>Tueſday</hi> 14. of <hi>Feb.</hi> 1692,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
